@@ -1,5 +1,6 @@
 # Empty Spaces Gif
 ![Preview](https://steamuserimages-a.akamaihd.net/ugc/1750192339025631216/D04567244161491A4546BA9C61C7AAE8234718B1/)
+
 ![views](https://img.shields.io/steam/views/2512619306?style=for-the-badge)
 ![downloads](https://img.shields.io/steam/downloads/2512619306?style=for-the-badge)
 ![subscriptions](https://img.shields.io/steam/subscriptions/2512619306?style=for-the-badge)
