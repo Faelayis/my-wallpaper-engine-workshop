@@ -1,4 +1,4 @@
-## Save performance (Lite)
+## Save performance (Gif)
 This image is a gif high quality not a video to save computer performance (save cpu ram & gpu usage)
 Oceanside (Profile Background) | Empty Spaces | Summer
 :------------: | :------------: | :------------:
