@@ -16,13 +16,13 @@ Empty Spaces |
 
 ## Save performance (Lite)
 This image is a gif high quality not a video to save computer performance (save cpu ram & gpu usage)
-Oceanside (Profile Background) | Empty Spaces Gif
-:------------: | :------------:
-![][Oceanside] | ![][Empty Spaces Gif]
-![][Oceanside line1] | ![][Empty Spaces Gif line1]
-![][Oceanside line2] | ![][Empty Spaces Gif line2]
-[Workshop][Oceanside Workshop] | [Workshop][Empty Spaces Gif Workshop]
-[Source][Oceanside Source] | [Source][Empty Spaces Gif Source]
+Oceanside (Profile Background) | Empty Spaces Gif | Summer (Lite)
+:------------: | :------------: | :------------:
+![][Oceanside] | ![][Empty Spaces Gif] | ![][Summer (Lite)]
+![][Oceanside line1] | ![][Empty Spaces Gif line1] | ![][Summer (Lite) line1]
+![][Oceanside line2] | ![][Empty Spaces Gif line2] | ![][Summer (Lite) line2]
+[Workshop][Oceanside Workshop] | [Workshop][Empty Spaces Gif Workshop] | [Workshop][Summer (Lite) Workshop]
+[Source][Oceanside Source] | [Source][Empty Spaces Gif Source] | [Source][Summer (Lite) Source]
 
 [Oceanside]: ./Oceanside%20(Profile%20Background)/preview.gif
 [Oceanside line1]: https://img.shields.io/steam/release-date/2511734736?style=for-the-badge
@@ -35,3 +35,9 @@ Oceanside (Profile Background) | Empty Spaces Gif
 [Empty Spaces Gif line2]: https://img.shields.io/steam/downloads/2512619306?style=for-the-badge
 [Empty Spaces Gif Workshop]: https://steamcommunity.com/sharedfiles/filedetails/?id=2512619306
 [Empty Spaces Gif Source]: Empty%20Spaces%20Gif/README.md
+
+[Summer (Lite)]: ./Summer%20(Lite)/preview.gif
+[Summer (Lite) line1]: https://img.shields.io/steam/release-date/2513351193?style=for-the-badge
+[Summer (Lite) line2]: https://img.shields.io/steam/downloads/2513351193?style=for-the-badge
+[Summer (Lite) Workshop]: https://steamcommunity.com/sharedfiles/filedetails/?id=2513351193
+[Summer (Lite) Source]: /Summer%20(Lite)/README.md
