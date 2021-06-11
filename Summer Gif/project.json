@@ -1,6 +1,6 @@
 {
 	"contentrating" : "Everyone",
-	"description" : "This image is a gif high quality not a video to save computer performance\r\n(save cpu ram & gpu usage)\r\n\r\n[b][url=github.com/F1rstStr0ke/my-wallpaper-engine-workshop/tree/master/Summer%20(Lite)]Source[/url][/b]",
+	"description" : "This image is a gif high quality not a video to save computer performance\r\n(save cpu ram & gpu usage)\r\n\r\n[b][url=github.com/F1rstStr0ke/my-wallpaper-engine-workshop/tree/master/Summer%20Gif]Source[/url][/b]",
 	"file" : "scene.json",
 	"general" : 
 	{
@@ -17,7 +17,7 @@
 	},
 	"preview" : "preview.gif",
 	"tags" : [ "Pixel art" ],
-	"title" : "Summer (Lite)",
+	"title" : "Summer Gif",
 	"type" : "scene",
 	"version" : 1,
 	"visibility" : "public",
