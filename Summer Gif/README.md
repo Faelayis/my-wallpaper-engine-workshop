@@ -1,4 +1,4 @@
-# Summer (Lite)
+# Summer Gif
 ![Preview](https://steamuserimages-a.akamaihd.net/ugc/1750192458150935804/1C969E9F9E6407FE090218D11A7AE56B67F793C8/)
 
 ![views](https://img.shields.io/steam/views/2513351193?style=for-the-badge)
