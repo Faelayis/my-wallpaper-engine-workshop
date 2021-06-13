@@ -1,6 +1,6 @@
 ## Save performance (Gif)
 This image is a gif high quality not a video to save computer performance (save cpu ram & gpu usage) [why?](../../wiki/original-vs-gif)
-Oceanside (Profile Background) | Empty Spaces | Summer | Evening
+Oceanside | Empty Spaces | Summer | Evening
 :------------: | :------------: | :------------: | :------------: |
 ![][Oceanside] | ![][Empty Spaces Gif] | ![][Summer Gif] | ![][Evening Gif]
 ![][Oceanside line1] | ![][Empty Spaces Gif line1] | ![][Summer Gif line1] | ![][Evening Gif line1]
