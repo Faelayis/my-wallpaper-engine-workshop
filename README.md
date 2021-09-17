@@ -1,7 +1,7 @@
 ## Save performance (Gif)
 This image is a gif high quality not a video to save computer performance (save cpu ram & gpu usage) [why?](../../wiki/original-vs-gif)
-Oceanside | Empty Spaces | Summer
-:------------: | :------------: | :------------:
+ | Oceanside | Empty Spaces | Summer
+ | :------------: | :------------: | :------------:
 [![Oceanside]][Oceanside Workshop] | [![Empty Spaces Gif]][Empty Spaces Gif Workshop] | [![Summer Gif]][Summer Gif Workshop]
 [![Oceanside line1]][Oceanside History] | [![Empty Spaces Gif line1]][Empty Spaces Gif History] | [![Summer Gif line1]][Summer Gif History]
 ![][Oceanside line2] | ![][Empty Spaces Gif line2] | ![][Summer Gif line2] | 
@@ -29,8 +29,8 @@ Oceanside | Empty Spaces | Summer
 [Summer Gif Source]: /Summer%20Gif/README.md
 [Summer Gif History]: https://github.com/Faelayis/my-wallpaper-engine-workshop/commits/master/Summer%20Gif
 
-Evening |
-:------------: |
+ | Evening |
+ | :------------: |
 [![Evening Gif]][Evening Gif Workshop]
 [![Evening Gif line1]][Evening Gif History]
 ![][Evening Gif line2]
@@ -46,8 +46,8 @@ Evening |
 
 ## Original
 This video has sound effects.
-Empty Spaces | Evening | 
-:------------: | :------------: | 
+ | Empty Spaces | Evening | 
+ | :------------: | :------------: | 
 [![Empty Spaces]][Empty Spaces Workshop] | [![Evening]][Evening Workshop]
 [![Empty Spaces line1]][Empty Spaces History] | [![Evening line1]][Evening History]
 ![][Empty Spaces line2] | ![][Evening line2]
